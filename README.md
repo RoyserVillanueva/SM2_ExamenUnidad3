@@ -13,7 +13,21 @@
 
 ### 2. Contenido del archivo quality-check.yml
 
+![WorkFlow](assets/yml.png)
+
 ### 3. Ejecución del workflow en la pestaña de Actions
+
+#### Ejecutar el entorno e instalar las dependencias
+![Prueba1](assets/prueba1.png)
+
+#### Analisis
+![Prueba2](assets/prueba2.png)
+
+#### Pruebas unitarias
+![Prueba3](assets/prueba3.png)
+
+#### Pestaña de GitHub Actions
+![Prueba4](assets/actions.png)
 
 ### 4. Explicación de lo realizado
 
