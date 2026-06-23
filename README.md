@@ -40,8 +40,9 @@
 test/               → Para almacenar las pruebas unitarias
 ```
 3. Se creara el archivo quality-check.yml en .github/workflows/. Para este caso se configuraria Flutter en el runner, siguiendo se instalaria las dependencias, se verifica la calidad y el codigo y por último se ejecutara las pruebas unitarias.
-4. Para las pruebas unitarias se crearon 8, dentro de test/main_test.dart para validad; 1. Email valido, 2. Email Invalido, 3. Contraseña fuerte, 4. Contraseña debil, 5. DNI valido, 6. DNI invalido, 7. Teléfono válido, 8. Teléfono inválido.
+4. Para las pruebas unitarias se crearon 8, dentro de test/main_test.dart para validación; 1. Email valido, 2. Email Invalido, 3. Contraseña fuerte, 4. Contraseña debil, 5. DNI valido, 6. DNI invalido, 7. Teléfono válido, 8. Teléfono inválido.
 
 ![Codigo](assets/codigo.png)
+
 5. El workflow se activara automáticamente en la rama main. 
 
