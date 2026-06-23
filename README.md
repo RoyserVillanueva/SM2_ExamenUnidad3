@@ -9,6 +9,8 @@
 
 ### 1. Estructura de las carpetas
 
+![Estructura de las carpetas](assets/estructura.png)
+
 ### 2. Contenido del archivo quality-check.yml
 
 ### 3. Ejecución del workflow en la pestaña de Actions
